@@ -19,3 +19,15 @@ h2 {
   font-size: 1.5rem;
   color: #ffffff;
 }
+
+h3,
+a {
+  font-size: 1rem;
+  color: #ffffff;
+}
+
+a:hover,
+a:active,
+a.active {
+  color: rgb(176, 176, 176);
+}

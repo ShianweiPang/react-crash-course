@@ -39,7 +39,7 @@ function AllMeetupsPage() {
     if (isLoading) {
         return (
             <section>
-                <p>Loading..</p>
+                <h3>Loading..</h3>
             </section>
         )
     }
